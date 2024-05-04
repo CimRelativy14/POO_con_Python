@@ -21,3 +21,6 @@ La Programación Orientada a Objetos (POO) se utiliza por varias razones, entre 
 5 - Modularidad: La POO fomenta la modularidad al dividir el código en unidades independientes y autónomas (objetos y clases). Esto hace que sea más fácil desarrollar, probar, depurar y mantener el software.
 
 6 - Herencia y Polimorfismo: La herencia y el polimorfismo son conceptos fundamentales de la POO que permiten crear jerarquías de clases y escribir código más genérico y flexible. Esto facilita la extensión y la personalización del software, así como la creación de interfaces coherentes y cohesivas.
+
+### En POO trabajamos con pascal case para definir clases:
+La notación Pascal Casecombina las palabras directamente, sin usar ningún símbolo, estableciendo que la primera letra de cada palabra esté en mayúscula sin excepciones, estando el resto de letras en minúsculas.
